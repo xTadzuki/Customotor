@@ -1,9 +1,9 @@
-🚗 Customotor
+ Customotor
 
 Application web professionnelle pour garage automobile spécialisé en performance & préparation moteur.
 Projet réalisé dans le cadre du Titre Professionnel Développeur Web & Web Mobile (DWWM).
 
-📌 Présentation:
+ Présentation:
 
 Customotor est une application web complète développée en PHP 8 avec architecture MVC personnalisée.
 
@@ -31,7 +31,7 @@ Professionnelle
 
 Exploitable en production
 
-🧱 Architecture:
+ Architecture:
 
 customotor/
 │
@@ -61,7 +61,7 @@ Model → accès base de données
 
 View → affichage
 
-🛠️ Stack technique:
+ Stack technique:
 
 🔹 Front-end
 
@@ -97,7 +97,7 @@ VS Code
 
 Git / GitHub
 
-🔐 Sécurité implémentée:
+ Sécurité implémentée:
 
 ✔ Requêtes préparées PDO
 ✔ Protection CSRF
@@ -106,7 +106,7 @@ Git / GitHub
 ✔ Contrôle d’accès aux routes sensibles
 ✔ Validation des données côté serveur
 
-👤 Fonctionnalités:
+ Fonctionnalités:
 
 Utilisateur
 
@@ -132,7 +132,7 @@ Gestion des rendez-vous
 
 Modération des avis
 
-🎨 Identité visuelle:
+ Identité visuelle:
 
 Design immersif inspiré de l’univers performance automobile :
 
@@ -152,7 +152,7 @@ Cohérence graphique
 
 Performance visuelle
 
-⚙️ Installation en local:
+ Installation en local:
 
 1️⃣ Cloner le projet
 git clone https://github.com/ton-compte/customotor.git
@@ -175,7 +175,7 @@ seed.sql
 4️⃣ Lancer
 http://localhost/customotor/public
 
-📈 Compétences démontrées:
+ Compétences démontrées:
 
 Conception architecture MVC
 
@@ -189,7 +189,7 @@ Structuration projet professionnel
 
 Développement interface responsive moderne
 
-👩‍💻 Auteur:
+ Auteur:
 
 Marie Bouvier
 Développeur Web & Web Mobile
