@@ -26,7 +26,7 @@ class AccountController extends Controller
         $user = auth_user();
         $requests = [];
 
-        // Optionnel : si tu relies les demandes à un user_id
+        
         if (!empty($user['id']) && method_exists('ContactRequest', 'allForUser')) {
             $requests = ContactRequest::allForUser((int)$user['id']);
         }
